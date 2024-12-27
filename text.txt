@@ -1,4 +1,6 @@
-name: mohamad
-lastName: zaker
-phonNumber: 09038136960
-age: 22
+{
+    name: mohamad,
+    lastName: zaker,
+    phoneNumber: 09038136960,
+    age: 22,
+}
